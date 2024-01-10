@@ -1,3 +1,5 @@
 # ironhack_study
 labs and content
-acc on ol.sal.krav@yandex.ru
+account on ol.sal.krav@yandex.ru
+content - lectures materials
+labs - labs for subbmission
