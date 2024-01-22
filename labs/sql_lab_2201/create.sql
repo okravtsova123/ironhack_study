@@ -3,7 +3,7 @@ USE lab_mysql;
 
 DROP TABLE IF EXISTS cars;
 CREATE TABLE cars (
-VIN INT unique not null, manufacturer VARCHAR(45), model VARCHAR(45), year INT, color VARCHAR(45),
+VIN VARCHAR(45) unique not null, manufacturer VARCHAR(45), model VARCHAR(45), year INT, color VARCHAR(45),
 PRIMARY KEY (VIN)
 );
 
@@ -34,10 +34,10 @@ invoice_id INT unique not null
 , date date
 , customer_id INT
 , staff_id int
-, VIN int
+, VIN VARCHAR(45)
 , primary key (staff_id)
-, FOREIGN KEY (customer_id) REFERENCES customers (customer_id)
-, FOREIGN KEY (staff_id) REFERENCES salespersons (staff_id)
-, FOREIGN KEY (VIN) REFERENCES cars (VIN)
+, constraint fk_cust_id FOREIGN KEY (customer_id) REFERENCES customers (customer_id)
+, constraint fk_staff_id FOREIGN KEY (staff_id) REFERENCES salesperson (staff_id)
+, constraint fk_vin FOREIGN KEY (VIN) REFERENCES cars (VIN)
 );
 
