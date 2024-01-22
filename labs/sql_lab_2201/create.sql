@@ -1,12 +1,15 @@
+-- creating database
 CREATE DATABASE IF NOT EXISTS lab_mysql;
 USE lab_mysql;
 
+-- creating cars
 DROP TABLE IF EXISTS cars;
 CREATE TABLE cars (
 VIN VARCHAR(45) unique not null, manufacturer VARCHAR(45), model VARCHAR(45), year INT, color VARCHAR(45),
 PRIMARY KEY (VIN)
 );
 
+-- creating customers
 DROP TABLE IF EXISTS customers;
 CREATE TABLE customers (
 customer_id INT unique not null
@@ -20,14 +23,16 @@ customer_id INT unique not null
 , postal_code VARCHAR(45)
 , primary key (customer_id) );
 
-DROP TABLE IF EXISTS salespersons;
-CREATE TABLE salespersons (
+-- creating salesporson
+DROP TABLE IF EXISTS salesperson;
+CREATE TABLE salesperson (
 staff_id INT unique not null
 , staff_name VARCHAR(45)
 , store VARCHAR(45)
 , primary key (staff_id)
 );
 
+-- creating invoices
 DROP TABLE IF EXISTS invoices;
 CREATE TABLE invoices (
 invoice_id INT unique not null
