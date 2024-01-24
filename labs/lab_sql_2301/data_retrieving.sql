@@ -49,6 +49,7 @@ from rental
 left join inventory on rental.inventory_id=inventory.inventory_id
 ) as table1;
 
+select * from rental;
 -- Determine the number of distinct last names of the actors in the database
 select count(distinct last_name) as unique_last_names
 from actor;
