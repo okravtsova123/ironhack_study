@@ -83,3 +83,7 @@ from film
 left join inventory
 using (film_id)
 group by film.title;
+
+select first_name, last_name
+from actor
+where actor_id=4;
