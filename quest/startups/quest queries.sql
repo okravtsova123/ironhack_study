@@ -128,13 +128,36 @@ group by country, valuation_US_billions, `name`, GDP_per_capita_tUSD
 order by av_valuation desc
 limit 10;
 
-select *
-from startups_gr;
+select c.country, count(s.name)
+from startups_gr as s
+left join countries as c
+using (country)
+where (Innovation_Score>=50 and Innovation_Score<52.1) and (GDP_per_capita_tUSD>39 and GDP_per_capita_tUSD>38)
+group by c.country
+order by count(s.name) desc;
 
-select distinct size_group, avg(population) over (partition by size_group)
-from startups_gr
-left join countries
+select *
+from countries
+where innovation_score<15
+order by innovation_score desc;
+
+select distinct s.size_group, round(avg(c.gdp_per_capita_tUSD) over (partition by s.Size_group),2) as GDP_per_capita 
+, round(avg(c.Innovation_Score) over (partition by s.size_group),2) as Innovation_score
+, round(min(c.rule_of_law) over (partition by s.size_group),2) as justice_index
+from startups_gr as s
+left join countries as c
 using (country);
 
-select *
-from startups;
+-- filling null industries with 'not known'
+UPDATE startups_gr
+SET industry = COALESCE(Industry, 'Not known')
+WHERE industry='';
+
+UPDATE countries
+SET rule_of_law= 0.58
+WHERE country='Israel';
+
+select s.*,c.*
+from startups_gr as s
+left join countries as c
+using (country);
