@@ -1,0 +1,612 @@
+Country,number,name,Valuation_US_billions,Valuation_date,Industry,Size_group,Year,rule_of_law,GDP_blnUSD,GDP_per_capita_tUSD,Population,Innovation_Score,Tax_Score
+Canada,0,1Password,6.8,"July 2021[84]","Password manager",huge,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+China,1,"58 Daojia",1,"October 2015[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,2,5ire,1.5,"July 2022[570]",Technology,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,3,6sense,2.1,"March 2021[266]","Artificial intelligence",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,4,Acko,1.1,"October 2021[418]",Insurance,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,5,Acorns,2.2,"May 2021[260]","Financial technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Singapore,6,Acronis,1,"September 2019[439]",Software,medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+US,7,ActiveCampaign,3,"April 2021[196]",Marketing,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,8,Ada,1.2,"May 2021[399]",Software,medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+US,9,Addepar,2.17,"June 2021[264]","Financial technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,10,Afiniti,1.6,"May 2017[330]","Software development",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,11,"Age of Learning, Inc.",3,"June 2021[197]",Education,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,12,Aihuishou,1.5,"January 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+France,13,Aircall,1,"October 2021[440]",Cloud,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,14,Airtable,11,"December 2021[39]","Collaborative software",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Australia,15,Airwallex,5.5,"November 2021[103]","Financial services",huge,2022,0.794076717,1677.45,64.0801,26177413,47.1,75.5
+Finland,16,Aiven,2,"October 2021[280]","Data infrastructure",large,2022,0.870796444,314.538,56.7682,5540745,56.9,67.4
+China,17,Aiways,1.6,"April 2018[124]","Electric vehicles",medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Indonesia,18,Ajaib,1,"October 2021[441]","Financial technology",medium,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+Indonesia,19,Akulaku,2,"February 2022[302]","Financial technology",large,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+France,20,Alan,1.68,"April 2021[325]","Health technology",medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,21,Alation,1.2,"June 2021[400]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,22,Alchemy,10.2,"January 2022 [43]",Blockchain,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+France,23,Algolia,2.25,"June 2021[256]",Software,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,24,AlphaSense,1.7,"June 2022[317]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+"Hong Kong",25,"Amber Group",1,"June 2021[442]",Cryptocurrency,medium,2022,0.727392092,0,0,7488865,51.8,0
+US,26,"AmWINS Group",2.6,"October 2016[237]",Insurance,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Nigeria,27,Andela,1.5,"September 2021[341]",Education,medium,2022,0.407704262,555.346,2.54115,218541212,16.9,0
+US,28,"Anduril Industries",4.6,"June 2021[130]","Defense technology",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+"Hong Kong",29,"Animoca Brands",5,"January 2022[126]","Blockchain gaming",huge,2022,0.727392092,0,0,7488865,51.8,0
+France,30,Ankorstore,1.98,"August 2022[94]",Marketplace,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+India,31,Apna,1.1,"September 2021[419]",,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Sweden,32,Apotea,1.2,"April 2021[293]",E-commerce,medium,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+US,33,AppDirect,1,"October 2015[443]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,34,"Applied Intuition",1.25,"October 2020[388]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,35,ApplyBoard,3.2,"June 2021[183]","Educational technology",large,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+Israel,36,AppsFlyer,2,"November 2020[281]","Mobile marketing analytics",large,2022,0.95,522.033,57.758,9038309,54.38,78.2
+"South Korea",37,Aprogen,1.04,"December 2019[305]",,medium,2022,0.732535629,0,0,51815810,57.8,64.1
+China,38,"Apus Group",1.85,"August 2017[124]","Mobile internet",medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,39,"Aqua Security",1,"March 2021[444]","Cloud computing",medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+US,40,"Arctic Wolf Networks",4.3,"July 2021[136]",Cybersecurity,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,41,Articulate,3.75,"July 2021[157]","Educational technology",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Thailand,42,"Ascend Money",1.5,"September 2021[357]","Financial technology",medium,2022,0.495275408,585.586,8.16751,71697030,34.9,0
+Japan,43,"Asia First Media",1,"September 2019[445]",Media,medium,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+Canada,44,"Assent Compliance",1,"January 2022[446]","Supply chain management",medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+US,45,Aurora,10,"December 2020[45]","Self-driving cars",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,46,"Automation Anywhere",6.8,"November 2019[83]","Robotic process automation",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,47,Automattic,3,"September 2019[198]",Internet,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,48,Avant,1.98,"September 2015[5]","Consumer finance",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,49,Away,1.4,"May 2019[360]",Retail,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,50,Axonius,1.2,"March 2021[401]",Cybersecurity,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+UK,51,"Babylon Health",2,"August 2019[274]",Healthcare,large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+France,52,"Back Market",5.8,"August 2022[94]",Marketplace,huge,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+China,53,Beibei,1,"June 2016[124]",E-commerce,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,54,"Beijing Weiying Technology",2,"April 2016[5]","E-commerce, movie ticket distributor",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Canada,55,Benevity,1.1,"December 2020[429]","Software as a service",medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+UK,56,BenevolentAI,1.85,"August 2015[5]","Drug discovery",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,57,Better.com,6,"April 2021[96]","Financial services",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,58,BharatPe,2.8,"August 2021[221]","Financial technology",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Israel,59,BigID,1.25,"May 2018[389]",Cybersecurity,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+India,60,BillDesk,1.8,"November 2018[310]","Financial technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,62,Bird,2.78,"October 2019[226]",Transportation,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Austria,64,Bitpanda,4.1,"August 2021[140]",Cryptocurrency,huge,2022,0.802697465,520.343,58.2064,8939617,50.2,68.6
+US,65,BitSight,2.4,"September 2021[249]",Cybersecurity,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Mexico,66,Bitso,2.2,"May 2021[261]",Cryptocurrency,large,2022,0.422936612,1371.64,10.7576,127504125,31,58.4
+Bangladesh,67,bKash,2,"November 2021[272][273]","Mobile financial services",large,2022,0.390675269,390.608,2.28177,171186372,19.7,0
+France,68,BlaBlaCar,2,"April 2021[282]",Transportation,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+India,69,Blackbuck,1,"July 2021[447]",Logistics,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Indonesia,70,Blibli,1,"December 2021",E-commerce,medium,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+India,71,Blinkit,1,"June 2021[474]",Retail,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+UK,72,Blockchain.com,5.2,"March 2021[109]",Cryptocurrency,huge,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Canada,73,Blockstream,3.2,"August 2021[184]",Blockchain,large,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+US,74,Bluecore,1,"August 2021[449]",E-commerce,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,75,BlueVoyant,1,"February 2022[565]",Cybersecurity,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Estonia,76,Bolt,8.4,"January 2022[67]",Transportation,huge,2022,0.816574826,39.542,29.8191,1326062,50.2,100
+US,77,"Bolt Financial",11,"January 2022[42]","Financial technology",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,78,"Bought By Many",2,"June 2021[275]",Insurance,large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,79,"Branch Metrics",4,"February 2022[143]",Marketing,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,81,Bringg,1,"June 2021[450]",Logistics,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+India,82,BrowserStack,4,"June 2021[144]",Software,huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+"South Korea",83,Bucketplace,1.4,"May 2022[361]","Interior design",medium,2022,0.732535629,0,0,51815810,57.8,64.1
+Netherlands,84,Bunq,1.9,"July 2021[306]","Financial services",large,2022,0.834922122,1070.75,60.9627,17564014,58,71.3
+China,87,Byton,1.2,"June 2018[124]",Automotive,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Brazil,88,"C6 BankР вЂ™Р’В [pt]",2.1,"December 2020[267]","Financial services",large,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+Spain,89,Cabify,1.4,"January 2018[362]",Transportation,medium,2022,0.726748025,1570.91,33.031,47558630,44.6,56.9
+US,90,"Cadence Solutions, Inc.",1,"December 2021[451]",Healthcare,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,91,Calabrio,1,"March 2021[452]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,92,Calendly,3,"January 2021[199]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,93,Calm,2,"December 2020[283]","Digital health",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,95,"Caocao Zhuanche",1.6,"January 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,96,CarDekho,1.2,"October 2021[402]",Marketplace,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Singapore,97,Carousell,1.1,"September 2021[420]",Marketplace,medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+Singapore,98,Carro,1,"June 2021[453]",Marketplace,medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+India,99,CARS24,3.3,"December 2021[172]",Marketplace,large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Malaysia,100,Carsome,1,"July 2021[454]",Marketplace,medium,2022,0.565178648,415.375,12.2392,33938221,38.7,0
+US,101,Carta,7.4,"August 2021[78]",Software,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,102,"Cato Networks",2.5,"October 2021[242]",Cybersecurity,large,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Germany,103,Celonis,11,"June 2021[40]",Software,huge,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+US,104,Chainalysis,4.2,"June 2021[citation needed][137]",Blockchain,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,105,Chargebee,1.4,"April 2021[363]","Financial technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,107,Checkr,4.6,"August 2021[131]","Human resource management",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,108,Chehaoduo,10,"July 2021[46]",Marketplace,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,110,"Chubao Technology",1,"May 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Mexico,111,Clara,1,"December 2021[438]","Financial technology",medium,2022,0.422936612,1371.64,10.7576,127504125,31,58.4
+US,112,Clari,1.6,"March 2021[331]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,113,Clearco,2,"April 2021[284]","Financial services",large,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+US,114,ClickHouse,2,"October 2021[285]","Database management",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,115,Clio,1.6,"April 2021[332]","Legal technology",medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+Mexico,116,Clip,2,"June 2021[286]","Financial technology",large,2022,0.422936612,1371.64,10.7576,127504125,31,58.4
+US,117,CloudKitchens,5,"November 2019[114]","Ghost kitchen",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,118,Clubhouse,4,"April 2021[145]",Messaging,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,119,"CMR Surgical",3,"January 2021[194]",Robotics,large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,120,Coalition,3.5,"September 2021[165]",Cybersecurity,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,121,"Cockroach Labs",2,"January 2021[287]","Database management",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Norway,122,Cognite,1.6,"May 2021",Software,medium,2022,0.889431577,458.398,84.3524,5434319,48.8,69
+US,123,Cohesity,3.7,"March 2021[158]",Software,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,124,CoinDCX,1.1,"August 2021[421]",Cryptocurrency,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,125,"CoinSwitch Kuber",1.9,"October 2021[307]",Cryptocurrency,large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Belgium,126,Collibra,5,"January 2019[112]","Data governance",huge,2022,0.791336903,619.16,53.1197,11655930,46.9,65.1
+US,127,Commure,3.5,"September 2021[166]","Health technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,128,ConsenSys,3.2,"November 2021[185]",Blockchain,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Germany,129,Contentful,3,"July 2021[201]","Content management system",large,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+France,130,Contentsquare,5.6,"August 2022[94]","Software as a service",huge,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,131,Convoy,2.75,"November 2019[227]",Trucking,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Spain,132,Copado,1.2,"September 2021",Software,medium,2022,0.726748025,1570.91,33.031,47558630,44.6,56.9
+India,133,CRED,6.4,"June 2022[91]","Financial technology",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Brazil,134,CreditasР вЂ™Р’В [pt],1.75,"December 2020[citation needed]","Financial services",medium,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+Australia,135,"Culture Amp",1.5,"July 2021[342]",Software,medium,2022,0.794076717,1677.45,64.0801,26177413,47.1,75.5
+India,136,CureFit,1.56,"November 2021[339]",,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Israel,137,Cybereason,3.2,"July 2021[186]",Cybersecurity,large,2022,0.95,522.033,57.758,9038309,54.38,78.2
+"South Korea",138,"Daangn Market",2.7,"August 2021[231]",E-commerce,large,2022,0.732535629,0,0,51815810,57.8,64.1
+China,139,Dada,1.2,"August 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Indonesia,140,DANA,1,"September 2022","Financial technology",medium,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+Canada,141,"Dapper Labs",7.6,"September 2021[75]",NFT,huge,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+France,143,Dataiku,4.6,"August 2021[132]","Artificial intelligence",huge,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,144,Dataminr,4.1,"March 2021[141]","Data analytics",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,145,DataRobot,6.3,"July 2021[92]","Artificial intelligence",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,146,Deel,1.25,"April 2021[390]",,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+France,147,Deezer,1,"August 2022[94]",Music,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+Belgium,148,Deliverect,1.4,"January 2022[235]","Ordering software for POS",medium,2022,0.791336903,619.16,53.1197,11655930,46.9,65.1
+France,149,"Dental Monitoring",1.2,"October 2021[403]",Healthcare,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+Germany,150,"Deutsche Health",1.2,"August 2020[124]",,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+Spain,151,"Devo Inc",1.5,"October 2021[343]",Software,medium,2022,0.726748025,1570.91,33.031,47558630,44.6,56.9
+India,153,"Digit Insurance",3.5,"July 2021[167]",Insurance,large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,154,"Digital Currency Group",10,"November 2021[47]","Venture capital",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,156,DistroKid,1.3,"August 2021[380]",Music,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,157,"Divvy Homes",2,"August 2021[288]","Real estate technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+France,159,Doctolib,6.2,"August 2022[94]",Healthcare,huge,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,160,Dragos,1.7,"October 2021[318]",Cybersecurity,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Turkey,161,"Dream Games",1,"June 2021[455]","Video games",medium,2022,0.416906528,0,0,85341241,38.1,76.6
+India,162,Dream11,8,"November 2021[71]","Fantasy sports",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,163,DriveWealth,2.85,"August 2021[220]","Financial technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,164,Droom,1.2,"July 2021[404]",Marketplace,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,165,Druva,2,"April 2021[289]","Cloud computing",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+China,166,"Dt Dream",1,"June 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+"South Korea",167,Dunamu,1,"Jul 2021[456]","Financial technology",medium,2022,0.732535629,0,0,51815810,57.8,64.1
+US,168,dutchie,1.7,"March 2021[319]",Cannabis,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,169,DXY,1,"April 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,170,Earnix,1,"February 2021[457]","Financial technology",medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Brazil,171,Ebanx,1,"October 2019[458]","Financial services",medium,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+US,172,Eightfold.ai,2.1,"June 2021[265]","Artificial intelligence",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Sweden,173,Einride,1.44,"April 2022[59]",Technology,medium,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+UAE,174,EMPG,1,"June 2020[459]","Real estate technology",medium,2022,0.633819721,427.93,45.3261,9441129,42.1,0
+US,175,Emplifi,1,"March 2022[435]",Technology,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Sweden,177,"Epidemic Sound",1.4,"March 2021[364]",Music,medium,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+India,178,Eruditus,3.2,"August 2021[187]","Educational technology",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Canada,179,eSentire,1,"Feb 2022[460]",Cybersecurity,medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+China,180,ETCP,1.3,"October 2016[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,181,eToro,2.5,"December 2020[243]","Financial technology",large,2022,0.95,522.033,57.758,9038309,54.38,78.2
+US,182,Exabeam,2.4,"June 2021[250]",Cybersecurity,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+France,183,Exotec,2,"August 2022[94]",Robotics,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,184,ezCater,1.25,"April 2019[391]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,185,Fair,1.2,"December 2018[405]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Portugal,188,Feedzai,1.3,"March 2021[381]","Artificial intelligence",medium,2022,0.689294299,271.191,26.4039,10270865,42.1,51.4
+US,189,Figma,10,"June 2021[48]",Software,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,190,FirstCry,1.2,"February 2020[406]",E-commerce,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+China,191,Firstp2p,2,"September 2016[5]","Financial services",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,192,FiscalNote,1.4,"May 2021[365]","Data analytics",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,193,"Five Star Finance",1.4,"March 2021[366]","Financial services",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,194,Fivetran,5.6,"September 2021[100]","Data infrastructure",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Thailand,195,"Flash Express",1,"June 2021[461][462]",Logistics,medium,2022,0.495275408,585.586,8.16751,71697030,34.9,0
+US,196,Flexe,1,"July 2022[463]",Logistics,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,197,Flexport,8,"February 2022[72]",Logistics,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Germany,198,FlixMobility,2,"August 2019[276]",Transportation,large,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+US,199,FloQast,1.2,"July 2021[407]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Nigeria,200,Flutterwave,1,"March 2021[464]","Financial technology",medium,2022,0.407704262,555.346,2.54115,218541212,16.9,0
+US,201,Formlabs,2,"May 2021[290]","3D printing",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,202,Forter,3,"May 2021[202]",Software,large,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Germany,203,Forto,1.2,"June 2021[408]",Software,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+India,204,Fractal,1,"January 2022","Artificial intelligence",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Canada,205,FreshBooks,1,"August 2021[465]","Accounting software",medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+US,206,"Frontline Education",1,"September 2017[466]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,207,FXiaoKe,1,"January 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,208,G2,1.3,"June 2021[382]",Technology,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Norway,209,Gelato,1,"August 2021[467]",,medium,2022,0.889431577,458.398,84.3524,5434319,48.8,69
+Canada,210,GeoComply,1,"March 2021[468]",Cybersecurity,medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+Georgia,211,GetBlock,4.6,"June 2020[123]",Blockchain,huge,2022,0.601986462,19.688,5.25801,3744385,27.9,0
+Israel,213,Gett,1.5,"May 2019[344]",Transportation,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Germany,214,GetYourGuide,1,"May 2019[469]",Travel,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+India,215,Glance,1,"December 2020[470]","Artificial intelligence",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,216,GlobalBees,1.1,"December 2021[423]",,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,217,Glossier,1.2,"March 2019[409]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Australia,218,Go1,1,"July 2021[471]",Education,medium,2022,0.794076717,1677.45,64.0801,26177413,47.1,75.5
+"Hong Kong",219,GoGoVan,1,"September 2017[472]",Technology,medium,2022,0.727392092,0,0,7488865,51.8,0
+US,220,Gong,7.25,"June 2021[81]","Artificial intelligence",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Germany,223,Gorillas,1,"March 2021[473]",Retail,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+Austria,224,GoStudent,1.67,"June 2021[326]","Educational technology",medium,2022,0.802697465,520.343,58.2064,8939617,50.2,68.6
+UK,225,Gousto,1,"November 2020[citation needed]","Meal kit",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+"South Korea",226,GPClub,1.32,"December 2018[252]",,medium,2022,0.732535629,0,0,51815810,57.8,64.1
+US,227,"Grafana Labs",3,"August 2021[203]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,229,Graphcore,2.8,"December 2020[222]",Semiconductors,large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,230,"Grove Collaborative",1,"September 2019[citation needed]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Germany,231,Grover,1,"April 2022 [475]",E-commerce,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+India,232,Groww,3,"April 2021[204]","Financial technology",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,233,Gupshup,1.4,"April 2021[367]",Messaging,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,234,Gusto,10,"August 2021[49]",Software,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,235,Gympass,2.2,"June 2021[262]",Fitness,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,236,Gymshark,1,"August 2020[436]",Sportswear,medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Israel,237,Hailo,1,"June 2021[476]",Electronics,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+US,238,Harness,1.7,"June 2021[320]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,239,HeartFlow,1.5,"February 2018[340]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,240,"Hello TransTech",5,"March 2021[115]",Transportation,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,241,Hellobike,1.47,"June 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,242,HeyTea,9.3,"July 2021[61]",Retail,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,243,Hibob,1.65,"October 2021[327]","HR technology",medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+India,244,HighRadius,1,"January 2020[477]","Software as a service",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,245,Highspot,2.3,"February 2021[253]",Sales,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,246,"Hinge Health",3,"January 2021[205]",Healthcare,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,247,Hive,2,"April 2021[278]","Artificial intelligence",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,248,HomeLight,1.6,"September 2021[333]","Real estate",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,249,HoneyBook,2.4,"November 2021[248]","Financial services",large,2022,0.95,522.033,57.758,9038309,54.38,78.2
+UK,250,Hopin,7.75,"August 2021[74]","Virtual event",huge,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Canada,251,Hopper,5,"August 2021[116]",Travel,huge,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+China,252,"Horizon Robotics",3,"February 2018[206]",Semiconductors,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,253,Houzz,4,"June 2017[146]","Interior design",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,254,"Huikedu Group",1,"May 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,255,Huimin.cn,2,"September 2016[124]","B2B e-commerce",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+France,256,IAD,1.4,"Oct 2021[368]","Real estate",medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,257,"iCapital Network",4,"July 2021[147]","Financial services",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,258,iCarbonX,1,"July 2016[124]",Healthcare,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,259,Icertis,2.8,"March 2021[223]",Software,large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,260,ID.me,1.5,"March 2021[345]","Identity verification service",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Brazil,261,IFood,1,"November 2018[478]","Food delivery",medium,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+"South Korea",262,IGAWorks,1,"Aug 2021[479]","Advertising technology",medium,2022,0.732535629,0,0,51815810,57.8,64.1
+US,263,Illumio,2.75,"June 2021[228]",Cybersecurity,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,264,Improbable,1,"May 2017[480]","Cloud computing",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Mexico,265,Incode,1.25,"December 2021[387]",Technology,medium,2022,0.422936612,1371.64,10.7576,127504125,31,58.4
+Israel,266,Infinidat,1.6,"October 2017[citation needed]","Data storage",medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Croatia,267,Infobip,1,"July 2020[481]","Cloud communications",medium,2022,0.612041907,68.525,17.0022,4030358,35.6,0
+India,268,Infra.Market,2.5,"August 2021[244]",Marketplace,large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,269,Injective,1,"April 2021[482]","Financial technology",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,270,InMobi,1,"May 2017[483]",Internet,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,271,Innovaccer,1.3,"February 2021[383]","Health care",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,272,Instabase,1.05,"October 2019[431]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,274,"Intarcia Therapeutics",1.95,"September 2016[5]",Pharmaceutical,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,275,Intercom,1.2,"March 2018[410]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,276,InVision,1,"November 2017[484]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,277,Iterable,2,"June 2021[291]",Marketing,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+France,278,Ivalua,1,"May 2020[485]",,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+China,279,Iwjw,1.25,"November 2015[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,281,Jokr,1.2,"June 2021[398]",Transportation,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,282,Jollychic,1,"May 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,283,JoyTunes,1,"June 2021[486]",Music,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Australia,284,"Judo Bank",1.6,"December 2020[334]","Financial services",medium,2022,0.794076717,1677.45,64.0801,26177413,47.1,75.5
+US,285,Jumpcloud,2.56,"September 2021[241]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,286,"JUUL Labs",5,"October 2019[117]","Electronic cigarettes",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Mexico,287,Kavak,8.7,"October 2021[63]",Marketplace,huge,2022,0.422936612,1371.64,10.7576,127504125,31,58.4
+US,288,KeepTruckin,2.25,"June 2021[257]",Logistics,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UAE,289,Kitopi,1,"July 2021[487]","Ghost kitchen",medium,2022,0.633819721,427.93,45.3261,9441129,42.1,0
+Sweden,290,Klarna,6.5,"July 2022[88]","Financial technology",huge,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+US,291,Klaviyo,9.5,"May 2021[57]",Marketing,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+"Hong Kong",292,Klook,1,"April 2019[488][489]",,medium,2022,0.727392092,0,0,7488865,51.8,0
+US,293,Knotel,1.3,"August 2019[384]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Mexico,294,Konfio,1.3,"September 2021[385]","Financial services",medium,2022,0.422936612,1371.64,10.7576,127504125,31,58.4
+Indonesia,295,"Kopi Kenangan",1,"December 2021[437]","Coffee shop",medium,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+China,296,"Koudai Gouwu",1.45,"October 2014[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,297,"Kr Space",1.3,"June 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Indonesia,298,Kredivo,1,"January 2022","Financial technology",medium,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+Sweden,299,Kry,2,"April 2021[292][293]",Healthcare,large,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+"South Korea",300,Kurly,3.3,"July 2021[173]",E-commerce,large,2022,0.732535629,0,0,51815810,57.8,64.1
+France,301,Kyriba,1.2,"October 2021[411]","Cloud software",medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+"South Korea",302,"L&P Cosmetic",1.78,"March 2018[252]",Cosmetics,medium,2022,0.732535629,0,0,51815810,57.8,64.1
+US,303,Lacework,8.3,"November 2021[68]","Cloud security",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+"Hong Kong",304,Lalamove,10,"January 2021[51]","Supply chain management",huge,2022,0.727392092,0,0,7488865,51.8,0
+China,305,Lamabang,1,"February 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,306,"Landa Digital Printing",1.8,"June 2018[311]",Printing,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+France,307,Ledger,1.5,"June 2021[346]",Cryptocurrency,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+India,308,Lenskart,2.5,"May 2021[246]",Retail,large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Ireland,309,LetsGetChecked,1,"June 2021[490]",Healthcare,medium,2022,0.809185642,550.518,109.597,5023109,48.5,55.6
+China,310,"Lianjia (Homelink)",6.04,"April 2017[95]","Real estate",huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,311,Licious,1,"October 2021[491]",Retail,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Israel,312,Lightricks,1.8,"September 2021[312]","Software development",medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Germany,313,"Lilium GmbH",1,"June 2020[492]",Transportation,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+Thailand,314,"LINE MAN Wongnai",1,"September 2022[124]","E-commerce, Food delivery",medium,2022,0.495275408,585.586,8.16751,71697030,34.9,0
+China,315,"LinkSure Network (WiFi Master Key)",1,"January 2015[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Japan,316,"Liquid Group",1,"April 2019[493]",Cryptocurrency,medium,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+UK,317,"LMAX Group",1,"July 2021[494]","Financial technology",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,318,"Locus Robotics",1,"February 2021[495]",Robotics,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Brazil,319,"Loft Brazil TechnologyР вЂ™Р’В [pt]",1,"January 2020[496]","Real estate",medium,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+Brazil,320,LoggiР вЂ™Р’В [pt],1,"June 2019[citation needed]",Logistics,medium,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+US,321,Lookout,1,"August 2014[498]",Cybersecurity,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,322,"Lucid Software",3,"June 2021[207]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Denmark,323,Lunar,1,"July 2021[497]","Financial technology",medium,2022,0.901821668,414.55,70.4746,5882261,55.9,57.3
+China,324,"Luoji Siwei",1.1,"September 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+France,325,Lydia,1,"August 2022[94]",Finance,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,326,"M1 Finance",1.45,"July 2021[358]","Financial technology",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Brazil,327,MadeiraMadeiraР вЂ™Р’В [pt],1,"January 2021[499]",Furniture,medium,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+US,328,"Magic Leap",4.5,"February 2016[1][5]","Augmented reality",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,329,Maimai,1,"August 2018[500]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,330,Mamaearth,1.2,"January 2022[396]","Personal care",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Germany,331,Mambu,2.1,"January 2021[268]","Financial technology",large,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+France,332,ManoMano,2.6,"July 2021[238]",E-commerce,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+UK,333,Marshmallow,1.25,"September 2021[392]",Insurance,medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,334,MasterClass,2.75,"May 2021[229]","Educational technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,335,Matillion,1.5,"September 2021[347]","Data analytics",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Singapore,336,Matrixport,1,"August 2021[501]",Cryptocurrency,medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+France,337,Meero,1,"June 2019[502]",Internet,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+India,338,Meesho,4.9,"September 2021[128]",E-commerce,huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+"South Korea",339,MEGAZONE,1.83,"Aug 2022[309]","Cloud computing",medium,2022,0.732535629,0,0,51815810,57.8,64.1
+China,340,Megvii,4,"May 2019[148]",Technology,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,341,Meicai.cn,2,"June 2016[124]","Agriculture, E-commerce",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,342,Meizu,4.4,"October 2016[124]","Consumer electronics",huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,343,Melio,4,"September 2021[149]","Financial technology",huge,2022,0.95,522.033,57.758,9038309,54.38,78.2
+India,344,"Mensa Brands",1,"November 2021[503]",E-commerce,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Mexico,345,Merama,1.2,"December 2021[397]",E-commerce,medium,2022,0.422936612,1371.64,10.7576,127504125,31,58.4
+Netherlands,346,MessageBird,3,"October 2020[208]","Cloud communications",large,2022,0.834922122,1070.75,60.9627,17564014,58,71.3
+China,347,Mia.com,1,"October 2016[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,348,MindTickle,1.2,"August 2021[412]","Software as a service",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+France,349,Mirakl,3.5,"September 2021[168]",Marketplace,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+India,351,MobiKwik,1,"October 2021[505]","Financial technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,352,MobileCoin,1,"August 2021[506]",Cryptocurrency,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,353,Mobvoi,1,"October 2015[124]","Artificial intelligence",medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,354,"Mofang Apartment",1,"April 2016[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,355,Moglix,1,"May 2021[507]",E-commerce,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+China,356,Moka,1,"November 2021[508]","Human resource management",medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Netherlands,357,Mollie,6.5,"June 2021[89]","Financial technology",huge,2022,0.834922122,1070.75,60.9627,17564014,58,71.3
+US,358,MOLOCO,1.5,"August 2021[348]","Advertising technology",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,359,Monzo,2.5,"June 2019[247]","Financial services",large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,360,MoonPay,3.4,"November 2021[178]",Cryptocurrency,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,361,"Morning Consult",1,"June 2021[509]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,362,Moveworks,2.1,"June 2021[269]","Artificial intelligence",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,363,Mozido,2.39,"October 2014[5]",E-commerce,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,364,MPL,2.3,"September 2021[254]","Mobile gaming",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,365,"Mu Sigma",1.5,"February 2013[349]","Management consulting",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Argentina,366,Mural,2,"July 2021[279]",Technology,large,2022,0.548633035,483.765,10.6298,45510318,28.6,0
+"South Korea",367,Musinsa,1.89,"November 2019[252]",Fashion,large,2022,0.732535629,0,0,51815810,57.8,64.1
+India,368,MyGlamm,1.2,"November 2021[413]",E-commerce,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Philippines,369,Mynt,2,"November 2021[294]","Financial technology",large,2022,0.467060735,406.107,3.51428,115559009,30.7,0
+Germany,370,N26,3.5,"July 2019[169]","Financial services",large,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+US,371,NantOmics,1.8,"June 2015[5]",Biotechnology,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,373,"Neo Financial",1,"May 2022[567]","Financial technology",medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+US,374,NetDocuments,1.4,"May 2021[369]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,375,Netskope,7.5,"July 2021[76]","Computer security",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,376,Nexii,1.23,"September 2021[394]","Building services engineering",medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+US,377,"Next Insurance",4,"March 2021[150]",Insurance,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,378,Nextdoor,2.1,"May 2019[270]","Social network",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,379,Nextiva,2.7,"September 2021[233]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,380,NextSilicon,1.5,"June 2021[350]",Semiconductors,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+US,381,Niantic,3.95,"January 2019[155]","Video games",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Singapore,382,"Ninja Van",1,"September 2021[510]",Logistics,medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+Singapore,383,Nium,1,"July 2021[511]","Financial technology",medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+India,384,NoBroker,1,"November 2021[512]",,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,385,Noom,3.7,"May 2021[159]",Healthcare,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Lithuania,386,"Nord Security",1.6,"April 2022[335]","VPN service",medium,2022,0.764534693,67.659,24.6028,2750055,37.3,76.9
+Sweden,387,Northvolt,11.75,"June 2021[38]",Batteries,huge,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+Chile,388,NotCo,1.5,"July 2021[351]","Food technology",medium,2022,0.662654914,352.664,17.9896,19603733,34,61.9
+US,389,"Notion Labs",10,"October 2021[52]","Productivity software",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,390,Nuro,8.6,"November 2021[65]",Robotics,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,391,OakNorth,2.8,"February 2019[224]",Finance,large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Luxembourg,392,OCSiAl,1,"March 2019[514]",Nanotechnology,medium,2022,0.826384091,89.683,138.485,647599,49.8,80.6
+UK,393,"Octopus Energy",5,"December 2021[127]","Energy supply",huge,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Belgium,394,Odoo,2.63,"July 2021[236]",CRM,large,2022,0.791336903,619.16,53.1197,11655930,46.9,65.1
+India,396,"Ola Cabs",7.3,"December 2021[79]",Transportation,huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,397,"Ola Electric",5,"January 2022[119]","Electric vehicles",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,398,Olive,4,"June 2021[151]","Health technology",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,399,OneCard,1.4,"July 2022[569]","Financial technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+UK,400,OneTrust,5.1,"December 2020[110]",Cybersecurity,huge,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Nigeria,401,OPay,2,"August 2021[295]","Financial technology",large,2022,0.407704262,555.346,2.54115,218541212,16.9,0
+Japan,403,"Opn (Synqa)",1,"May 2022[515]","Financial technology",medium,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+Israel,404,"Orca Security",1.8,"October 2021[313]",Cybersecurity,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Israel,405,OrCam,1,"February 2018[516]",Health,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+US,406,Outreach,4.4,"June 2021[135]",Sales,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,407,OutSystems,9.5,"February 2021[58]","Software development",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Indonesia,408,OVO,2.9,"March 2019[7]","Financial technology",large,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+US,409,OwnBackup,3.35,"August 2021[170]","Data storage",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,410,"Oxford Nanopore Technologies",2,"November 2012[296]","Nanopore sequencing",large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+India,411,Oyo,9.6,"August 2021[56]",Hospitality,huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,412,PandaDoc,1,"September 2021[517]","Software as a service",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,413,"Pantheon Systems",1,"July 2021[518]",WebOps,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,414,"Panther Labs, Inc.",1.4,"December 2021[370]","Computer security",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,415,"Papaya Global",3.7,"September 2021[160]","Workforce management",huge,2022,0.95,522.033,57.758,9038309,54.38,78.2
+US,416,Patreon,4,"April 2021[152]","Online membership service",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Singapore,417,PatSnap,1,"March 2021[519]","Intellectual property",medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+US,418,"PAX Labs",1.7,"April 2019[321]",Cannabis,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,419,Paxos,2.4,"April 2021[251]",Cryptocurrency,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+France,420,PayFit,2.1,JanuaryР вЂ™Р’В 2022[20],Software,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+Bulgaria,421,Payhawk,1,"March 2022[566]","Financial technology",medium,2022,0.546905538,84.308,12.4312,6781953,39.5,0
+US,422,Pendo,2.6,"July 2021[239]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,423,Pentera,1,"January 2022[433]",Cybersecurity,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Israel,424,"Perimeter 81",1,"June 2022 [520]","Network security",medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Germany,425,Personio,6.3,"October 2021[93]",Software,huge,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+India,426,PharmEasy,5.6,"October 2021[101]","Health technology",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,427,PhonePe,5.5,"December 2020[104]","Financial technology",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,428,"Physics Wallah",1.1,"June 2022[568]","Educational technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,429,"Pine Labs",3,"February 2022[209]","Financial technology",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Estonia,430,Pipedrive,1,"November 2020[522]",CRM,medium,2022,0.816574826,39.542,29.8191,1326062,50.2,100
+Japan,432,Playco,1,"September 2020[523]","Mobile gaming",medium,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+Denmark,433,Pleo,4.7,"December 2021[129]","Financial technology",huge,2022,0.901821668,414.55,70.4746,5882261,55.9,57.3
+US,434,Plus.ai,3.3,"May 2021[180]","Self-driving trucks",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,435,Podium,1.5,"August 2019[352]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,436,PointClickCare,4,"January 2021[153]",Software,huge,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+China,437,Pony.ai,5.3,"November 2020[106]","Artificial intelligence",huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,438,Postman,5.6,"August 2021[102]","Software as a service",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+Japan,439,"Preferred Networks",3.33,"September 2019[171]","Artificial intelligence",large,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+Latvia,440,Printful,1,"May 2021[524]",Technology,medium,2022,0.722523989,40.83,22.0625,1850651,36.5,89.9
+India,441,"Pristyn Care",1.4,"December 2021[371]","Health technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,442,"Prosper Marketplace",1.9,"August 2015[5]","Financial technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,443,PsiQuantum,3.15,"July 2021[188]","Quantum computing",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,444,Purplle,1.1,"June 2022[422]",E-Commerce,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,445,"QOMPLX, Inc.",1.4,"March 2021[citation needed]","Computer security",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+France,446,Qonto,5,"August 2022[94]",Finance,huge,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+Brazil,447,QuintoAndarР вЂ™Р’В [pt],4,"May 2021[154]","Real estate",huge,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+US,448,Quizlet,1,"May 2020[527]","Educational technology",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,449,Quora,1.8,"April 2017[314]","Social network",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,450,Ramp,8.1,"March 2022[69]","Financial technology",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Colombia,451,Rappi,5.25,"July 2021[108]",Transportation,huge,2022,0.483858252,319.29,6.1551,51874024,29.2,57.8
+UK,452,Rapyd,8.7,"August 2021[64]","Financial technology",huge,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+India,453,Razorpay,7.5,"December 2021[77]","Financial technology",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,454,"Rebel Foods",1.4,"October 2021[372]","Ghost kitchen",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,455,"Rec Room",1.25,"March 2021[393]","Video games",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,456,Reddit,10,"August 2021[53]","Internet media",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,457,"Redis Labs",1,"August 2020[525]",Software,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+US,458,"REEF Technology",1,"November 2020[526]","Real estate technology",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,459,"Relativity Space",4.2,"June 2021[138]",Aerospace,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,460,ReliaQuest,1,"December 2021[563]",Cybersecurity,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,461,Remote,1.5,"July 2021[353]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Philippines,463,"Revolution Precrafted",1,"October 2017[528]",Architecture,medium,2022,0.467060735,406.107,3.51428,115559009,30.7,0
+"South Korea",464,RIDI,1.33,"August 2021[378]",E-commerce,medium,2022,0.732535629,0,0,51815810,57.8,64.1
+US,465,Ripple,10,"December 2019[54]",Cryptocurrency,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,466,Rippling,11.25,"August 2022[90]","Workforce management",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,467,Rivigo,1.05,"October 2019[432]",Logistics,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,468,Ro,5,"March 2021[120]","Health technology",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+"Czech Republic",469,Rohlik,1.2,"June 2021[414]",Retail,medium,2022,0.73,290,27.533,10533000,44.83,71.9
+China,470,Royole,5,"August 2018[121]","Flexible electronics",huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,471,"Rubicon Global",1,"September 2017[529]","Waste management",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,472,Rubrik,3.3,"January 2019[174]","Computer storage",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Australia,473,SafetyCulture,1.6,"May 2021[336]",Technology,medium,2022,0.794076717,1677.45,64.0801,26177413,47.1,75.5
+US,474,SambaNova,5.1,"April 2021[111]","Artificial intelligence",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,475,"Sanpower Group",1.93,"March 2018[124]","Holding company",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,476,"Scale AI",7.3,"April 2021[80]","Artificial intelligence",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,477,Scopely,3.3,"October 2020[175]","Mobile gaming",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,478,Seismic,3,"August 2021[210]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Germany,479,Sennder,1,"January 2021[530]",Logistics,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+US,481,SentinelOne,3.1,"November 2020[191]",Cybersecurity,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,482,ServiceTitan,9.5,"June 2021[60]",Software,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,483,ShareChat,3.7,"December 2021[161]","Social network",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+France,485,"Shift Technology",1,"May 2021[531]","Artificial intelligence",medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,486,Shippo,1,"June 2021[532]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,487,Shouqi,3.55,"December 2016[124]",Transportation,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,488,Sift,1,"April 2021[533]","Fraud prevention",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,489,Sisense,1.1,"January 2020[425]","Business intelligence",medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Vietnam,490,"Sky Mavis",3,"October 2021[211]","Video games",large,2022,0.489194975,415.493,4.23166,98186856,34.2,0
+India,491,Slice,1,"November 2021[534]","Financial technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,492,SmartAsset,1,"June 2021[535]","Financial technology",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Japan,493,SmartHR,1.6,"May 2021[337]","HR technology",medium,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+China,494,SmartMore,1,"June 2021[536]","Artificial intelligence",medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Japan,495,SmartNews,1.1,"August 2019[426]",,medium,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+India,496,Snapdeal,1,"May 2017[5]",E-commerce,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+UK,497,Snyk,8.5,"September 2021[66]","Application security",huge,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+"South Korea",498,Socar,1,"October 2020[537]","Car sharing",medium,2022,0.732535629,0,0,51815810,57.8,64.1
+US,499,Socure,4.5,"November 2021[133]","Identity management",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Germany,500,Solarisbank,1.65,"July 2021[328]","Financial technology",medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+France,501,Sorare,4.6,"August 2022[94]","Fantasy sports",huge,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+China,502,Souche,3,"September 2018[212]",Marketplace,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,503,SoundHound,1,"May 2018[538]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,504,Sourcegraph,2.6,"July 2021[240]","Developer platform",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+France,506,Spendesk,1,"August 2022[94]","Financial software",medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+Japan,507,Spiber,1.22,"September 2021[395]",Biotechnology,medium,2022,0.78572999,5383.68,43.4337,123951692,53.6,67.3
+India,508,Spinny,1.75,"November 2021[315]",Marketplace,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,509,Splashtop,1,"January 2021[539]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,510,SpotOn,3.15,"September 2021[189]","Financial technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,511,"Spring Rain Software",1.5,"June 2016[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Canada,512,SSENSE,4.15,"June 2021[139]",E-commerce,huge,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+Germany,513,Staffbase,1.1,"March 2022[540]","Software as a service",medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+US,514,"Starburst Data",3.3,"February 2022[181]","Data analytics",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Israel,515,"StarkWare Industries",8,"May 2022 [73]",Blockchain,huge,2022,0.95,522.033,57.758,9038309,54.38,78.2
+UK,516,"Starling Bank",1.5,"March 2021[354]","Financial technology",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,517,Stash,1.4,"February 2021[373]","Financial technology",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,518,StockX,3.8,"April 2021[156]",E-commerce,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,520,"Suning Sports",1.47,"July 2018[124]","Holding company",medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,521,Swiggy,10.7,"January 2022[44]","Food delivery",huge,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+France,522,Swile,1,"October 2021[541]","Financial services",medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+Portugal,523,"Sword Health",2,"November 2021[297]",Health,large,2022,0.689294299,271.191,26.4039,10270865,42.1,51.4
+US,524,Symphony,1.4,"June 2019[374][375]",Software,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,525,Sysdig,1.18,"April 2021[417]",Cybersecurity,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,526,"Taihe Music Group",1.7,"June 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Portugal,527,Talkdesk,10,"August 2021[55]","Software as a service",huge,2022,0.689294299,271.191,26.4039,10270865,42.1,51.4
+US,528,Tanium,9,"June 2020[62]",Cybersecurity,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,529,Taopiaopiao,2,"July 2017[124]","E-commerce, movie ticket distributor",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,530,Tekion,1,"October 2020[542][543]","Software as a service",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,532,Tempus,8.1,"December 2020[70]",Health,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,533,Tenstorrent,1,"May 2021[544]",Semiconductors,medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+China,534,Tezign,1,"October 2021[545]",Software,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,535,ThoughtSpot,1.95,"August 2019[303][304]",Analytics,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,536,Thrasio,5,"October 2021[113]","Holding company",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,537,Thumbtack,3.2,"June 2021[182]",Software,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Argentina,538,TiendaNube,3.1,"August 2021[190]",E-commerce,large,2022,0.548633035,483.765,10.6298,45510318,28.6,0
+Indonesia,539,Tiket.com,1,"December 2021",Travel,medium,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+US,540,Tipalti,2,"October 2020[citation needed]","Financial technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,541,"Tongdun Technology",1,"October 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+UK,542,Tractable,1,"June 2021[546]","Artificial intelligence",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Germany,543,"Trade Republic",5.3,"May 2021[107]","Financial technology",huge,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+US,544,Tradeshift,2.7,"March 2021[234]","Financial technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,545,TradingView,3,"October 2021[213]",Finance,large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Israel,546,"Transmit Security",2.2,"June 2021[263]",Cybersecurity,large,2022,0.95,522.033,57.758,9038309,54.38,78.2
+Indonesia,547,Traveloka,3,"January 2017[195]",Travel,large,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+Singapore,548,Trax,1.1,"May 2019[427]",,medium,2022,0.776887451,396.995,66.435,5975689,57.3,0
+"Hong Kong",549,"Trendy International Group",2,"February 2012[5][298]","Fashion, Retail",large,2022,0.727392092,0,0,7488865,51.8,0
+US,551,Tresata,1,"October 2018[547]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+"South Korea",552,Tridge,2.7,"August 2022[232]","Software as a service",large,2022,0.732535629,0,0,51815810,57.8,64.1
+US,553,TripActions,7.25,"October 2021[82]",Travel,huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+UK,554,TrueLayer,1,"September 2021[548]","Financial technology",medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+Canada,555,Trulioo,1.75,"June 2021[316]","Identity management",medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+Sweden,556,Trustly,1,"June 2020[549]","Financial technology",medium,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+China,557,Tujia.com,1.5,"October 2017[355][356]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,558,Turo,1,"July 2019[550]","Car sharing",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Argentina,559,UalР вЂњР Р‹,2.45,"November 2019[citation needed]","Personal finance",large,2022,0.548633035,483.765,10.6298,45510318,28.6,0
+China,560,"UBtech Robotics",5,"May 2018[122]",Robotics,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+India,561,Udaan,3.1,"January 2021[192]","B2B e-commerce",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,562,Udacity,1,"November 2015[551]",Education,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,563,Unacademy,3.4,"August 2021[179]","Educational technology",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+China,564,UnionPay,2.8,"October 2016[124]",Finance,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,565,Unisound,1,"July 2018[124]",Technology,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,566,"Unite Us",1.6,"March 2021[338]",Healthcare,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,567,"United Imaging Healthcare",5,"September 2017[124]",Healthcare,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,568,Unqork,2,"October 2020[299]","Software development",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,569,upGrad,1.2,"August 2021[415]","Educational technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,570,Upstox,3,"November 2021[214]","Financial technology",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+US,571,Uptake,2.3,"November 2017[255]","Asset performance management",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,572,"Urban Company",2.8,"December 2021[225]","Home improvement",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+China,573,VANCL,3,"February 2014[5]",E-commerce,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,574,"VAST Data",3.7,"May 2021[162]","Data storage",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,575,Vedantu,1,"September 2021[552]","Educational technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+France,576,Veepee,3,"August 2022[94]",E-commerce,large,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+Israel,577,Verbit,1,"June 2021[553]",Software,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+India,578,"VerSe Innovation",1,"December 2020[554]",Technology,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+France,579,"Vestiaire Collective",1.7,"September 2021[322]",Marketplace,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,580,"Via Transportation",2.25,"March 2020[258]",Transportation,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+US,581,"Vice Media",5.7,"February 2020[99]","Mass media",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Lithuania,582,Vinted,4.5,"May 2021[134]",Marketplace,huge,2022,0.764534693,67.659,24.6028,2750055,37.3,76.9
+China,583,VIPKID,3,"June 2018[215]",Education,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,584,"Virta Health",1.1,"December 2020[428]",Healthcare,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Canada,585,Visier,1,"June 2021[555]",Technology,medium,2022,0.799883964,2189.79,56.9452,38454327,50.8,69.3
+"South Korea",586,"Viva Republica (Toss)",5.48,"June 2021[105]","Financial technology",huge,2022,0.732535629,0,0,51815810,57.8,64.1
+Sweden,587,Voi,1,"April 2022[59]",,medium,2022,0.857421303,660.918,62.6501,10549347,61.6,74.2
+Germany,588,volocopter,1,"March 2021[556]",Transportation,medium,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+France,589,Voodoo,1.7,"August 2022[94]",Gaming,medium,2022,0.73079554,3140.03,48.5872,64626628,55,45.3
+US,590,"Vox Media",1,"August 2015[557]","Digital media",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Philippines,591,Voyager,1.4,"April 2022[376]","Financial technology",medium,2022,0.467060735,406.107,3.51428,115559009,30.7,0
+Brazil,592,VTEXР вЂ™Р’В [pt],1.7,"September 2020[323]",Technology,medium,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+US,593,VTS,1,"May 2019[558]",,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,594,Wacai.com,1,"July 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,595,"Warby Parker",3,"August 2020[216]",Retail,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Senegal,596,Wave,1.7,"September 2021[324]","Financial technology",medium,2022,0.560840445,30.039,1.73471,17316449,19.9,0
+Ireland,597,Wayflyer,1.6,"Feb 2022[329]","Financial technology",medium,2022,0.809185642,550.518,109.597,5023109,48.5,55.6
+US,598,Webflow,2.1,"January 2021[271]","Web development",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,599,WeDoctor,6.8,"February 2021[85]",Healthcare,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Germany,600,Wefox,3,"June 2021[217]",Insurance,large,2022,0.8342599,4557.35,54.6642,83369843,57.2,70.2
+"Hong Kong",601,WeLab,1,"December 2019[559]","Financial technology",medium,2022,0.727392092,0,0,7488865,51.8,0
+"South Korea",602,Wemakeprice,2.33,"September 2015[252]",E-commerce,large,2022,0.732535629,0,0,51815810,57.8,64.1
+China,603,WeRide,3.3,"June 2021[176]","Self-driving cars",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,604,WHOOP,3.6,"August 2021[163]","Wearable technology",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Brazil,605,Wildlife,3,"August 2020[193]","Mobile gaming",large,2022,0.494265751,1810.61,8.28498,218541212,32.5,0
+Israel,606,Wiz,6,"October 2021[97]",Cybersecurity,huge,2022,0.95,522.033,57.758,9038309,54.38,78.2
+China,607,Womai,1,"October 2015[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,608,Workato,1.7,"December 2020",Technology,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Ireland,609,Workhuman,1.2,"June 2020[416]",Software,medium,2022,0.809185642,550.518,109.597,5023109,48.5,55.6
+US,610,Workrise,2.9,"May 2021[219]","Workforce management",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+Indonesia,611,Xendit,1,"September 2021[560]","Financial technology",medium,2022,0.531363313,1247.35,4.52756,275501339,27.9,0
+China,613,Xiaozhu.com,1,"November 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,614,"Xingsheng Youxuan",6,"January 2021[98]",Retail,huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,615,XtalPi,2,"August 2021[277]",Pharmaceuticals,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+"South Korea",616,Yanolja,6.7,"July 2021[86]",Hospitality,huge,2022,0.732535629,0,0,51815810,57.8,64.1
+"South Korea",617,"Yello Mobile",4.05,"November 2016[5][142]","Software industry",huge,2022,0.732535629,0,0,51815810,57.8,64.1
+China,618,"YH Global",1,"September 2017[124]",Telecommunications,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,619,"Yidian Zixun",1,"October 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,620,"Yinlong Group",1.95,"December 2016[124]",Energy,large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,621,"Yitu Technology",1,"July 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,622,"Yixia Technology",3,"November 2016[124]","Internet media",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+Israel,623,Yotpo,1.4,"March 2021[377]",Marketing,medium,2022,0.95,522.033,57.758,9038309,54.38,78.2
+China,624,"Youxia Motors",3.3,"October 2018[177]","Electric vehicles",large,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,626,Yugabyte,1.3,"October 2021[386]","Database management",medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,627,YunQuNa,1,"May 2021[561]",Logistics,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,628,ZBJ.com,1.5,"June 2015[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+UK,629,Zego,1.1,"March 2021[430]",Insurance,medium,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,630,Zenefits,4.5,"May 2015[2][5]","Human resource management",huge,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+India,631,Zenoti,1,"December 2020[562]","Software company",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+UK,632,Zepz,5,"August 2021[125]","Financial technology",huge,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+India,633,Zerodha,2,"May 2021[300]","Financial technology",large,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,634,Zeta,1.45,"May 2021[359]","Financial technology",medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+India,635,Zetwerk,1.33,"August 2021[379]",,medium,2022,0.497209865,3250.08,2.29335,1417173173,36.6,0
+China,636,Zhaogang.com,1,"July 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+China,637,Zhuanzhuan,1,"April 2017[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+"South Korea",638,ZigBang,1.93,"June 2022[305]","Property technology",large,2022,0.732535629,0,0,51815810,57.8,64.1
+UK,639,Zilch,2,"November 2021[301]","Financial technology",large,2022,0.787744034,3442.21,50.989,67508936,59.7,62.9
+US,640,Zipline,2.75,"June 2021[230]",Logistics,large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,641,Ziroom,6.6,"March 2020[87]","Real estate technology",huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,642,Zocdoc,1.8,"August 2015[5]",Healthcare,medium,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,643,"ZongMu Technology",11,"June 2021[41]","Self-driving cars",huge,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0
+US,644,Zume,2.25,"November 2018[259]","Food packaging, Logistics",large,2022,0.707235208,24796.1,73.2983,338289857,61.8,66.8
+China,645,Zuoyebang,1,"July 2018[124]",,medium,2022,0.471805593,18463.1,12.9485,1425887337,55.3,0

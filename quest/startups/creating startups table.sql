@@ -21,10 +21,11 @@ DROP COLUMN Founders;
 
 drop table countries;
 
+select * from countries;
 -- adding Israel and Chech Republic to the table countries
-INSERT INTO countries (Country, `Year`, rule_of_law, GDP_blnUSD,GDP_per_capita_tUSD,Population)
-VALUES ('Israel', 2022, 0.95, 522.033, 57.758, 9038309),
-('Czech Republic',2022,0.73, 290, 27.533,10533000);
+INSERT INTO countries (Country, `Year`, rule_of_law, GDP_blnUSD,GDP_per_capita_tUSD,Population, Innovation_Score, Tax_Score)
+VALUES ('Israel', 2022, 0.95, 522.033, 57.758, 9038309, 54.38, 78.2),
+('Czech Republic',2022,0.73, 290, 27.533,10533000, 44.83,71.9);
 
 select count(country) from countries; 
 
@@ -70,3 +71,70 @@ select count(country) from startups;
 delete from startups
 where Valuation_US_billions>11.8;
 
+-- adding a column to identify clusters of the startups
+ALTER TABLE startups
+ADD COLUMN startup_group VARCHAR(45);
+
+select * from startups;
+
+DELETE from startups
+where name='';
+
+
+select startups.*, 
+(case 
+when Valuation_US_billions<1 then 'small'
+when (Valuation_US_billions>=1 and Valuation_US_billions<1.87) then 'medium'
+when (Valuation_US_billions>=1.87 and Valuation_US_billions<3.7) then 'large'
+when Valuation_US_billions>=3.57 then 'huge'
+END) as size_group
+from startups;
+
+select *
+from startups_gr;
+
+-- for the table that is with the size
+ALTER TABLE startups_gr
+add constraint fk_countries_1
+FOREIGN KEY (Country) REFERENCES countries(Country);
+
+select distinct size_group, avg(Valuation_US_billions) over (partition by size_group) as avg_valuation, 
+from startups_gr
+group by size_group, Valuation_US_billions;
+
+select distinct size_group, count(size_group) over (partition by size_group) as number_companies, avg(population) over (partition by size_group) as avg_population, avg(rule_of_law) over (partition by size_group) as avg_law, avg(GDP_blnUSD) over (partition by size_group) as avg_gdp, avg(GDP_per_capita_tUSD) over (partition by size_group) as avg_gdp_per_capita,
+ avg(Tax_score) over (partition by size_group) as avg_tax_index, avg(Innovation_score) over (partition by size_group) as avg_inn_score
+from startups_gr
+left join countries 
+using (country)startups;
+
+select * from countries;
+
+SET SQL_SAFE_UPDATES = 0;
+delete from startups_gr
+where size_group='small';
+
+select distinct industry,  AVG(valuation_US_billions) over (partition by industry) as valuation_av
+from startups_gr
+group by Industry, valuation_US_billions
+order by valuation_av desc
+limit 10;
+
+select distinct country, GDP_per_capita_tUSD, count(`name`) over (partition by country), avg(valuation_US_billions) over (partition by country) as av_valuation, max(valuation_US_billions) over (partition by country) as max_valuation
+from startups_gr
+left join countries
+using (country)
+group by country, valuation_US_billions, `name`, GDP_per_capita_tUSD
+order by av_valuation desc
+limit 10;
+
+select *
+from startups_gr;
+
+select distinct size_group, avg(population) over (partition by size_group)
+from startups_gr
+left join countries
+using (country);
+
+select *
+from startups;
