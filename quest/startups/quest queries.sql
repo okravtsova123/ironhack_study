@@ -98,7 +98,7 @@ ALTER TABLE startups_gr
 add constraint fk_countries_1
 FOREIGN KEY (Country) REFERENCES countries(Country);
 
-select distinct size_group, avg(Valuation_US_billions) over (partition by size_group) as avg_valuation, 
+select distinct size_group, avg(Valuation_US_billions) over (partition by size_group) as avg_valuation
 from startups_gr
 group by size_group, Valuation_US_billions;
 
@@ -106,7 +106,7 @@ select distinct size_group, count(size_group) over (partition by size_group) as 
  avg(Tax_score) over (partition by size_group) as avg_tax_index, avg(Innovation_score) over (partition by size_group) as avg_inn_score
 from startups_gr
 left join countries 
-using (country)startups;
+using (country);
 
 select * from countries;
 
